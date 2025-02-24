@@ -163,6 +163,6 @@
 
   $('._tg_url').click(function (){
     $(this).attr('href', 'https://t.me/les_truman');
-    gtag('event', 'conversion', {'send_to': 'AW-11500587481/kFe-CLHHmv8ZENmT9Osq'});
+    gtag('event', 'conversion', {'send_to': 'AW-11523330537/1lNaCJGWuqIaEOmj4PYq'});
   });
 })(jQuery);
