@@ -162,7 +162,7 @@
   );
 
   $('._tg_url').click(function (){
-    $(this).attr('href', 'https://t.me/les_truman');
+    $(this).attr('href', 'https://t.me/Gige188653');
     gtag('event', 'conversion', {'send_to': 'AW-11523330537/1lNaCJGWuqIaEOmj4PYq'});
   });
 })(jQuery);
