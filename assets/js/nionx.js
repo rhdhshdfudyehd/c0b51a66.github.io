@@ -162,7 +162,6 @@
   );
 
   $('._tg_url').click(function (){
-    $(this).attr('href', 'https://t.me/salome_chaplin');
-    gtag('event', 'conversion', {'send_to': 'AW-11523330537/1lNaCJGWuqIaEOmj4PYq'});
+    $(this).attr('href', 'https://t.me/max_dunlop');
   });
 })(jQuery);
